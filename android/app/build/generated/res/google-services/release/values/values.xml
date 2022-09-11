@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">884475522954-255itj47s3ooa7qmstljmfqs5bpcuhmq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">884475522954</string>
+    <string name="google_api_key" translatable="false">AIzaSyDk5XoiBOTE8gqA6K5kl3lTo1WJQmQuXdA</string>
+    <string name="google_app_id" translatable="false">1:884475522954:android:7e17f70a8ca2cd876d2273</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDk5XoiBOTE8gqA6K5kl3lTo1WJQmQuXdA</string>
+    <string name="google_storage_bucket" translatable="false">moeving-todo-app.appspot.com</string>
+    <string name="project_id" translatable="false">moeving-todo-app</string>
+</resources>

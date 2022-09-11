@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884475522954",
+    "project_id": "moeving-todo-app",
+    "storage_bucket": "moeving-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884475522954:android:7e17f70a8ca2cd876d2273",
+        "android_client_info": {
+          "package_name": "com.avegen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884475522954-255itj47s3ooa7qmstljmfqs5bpcuhmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5XoiBOTE8gqA6K5kl3lTo1WJQmQuXdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884475522954-255itj47s3ooa7qmstljmfqs5bpcuhmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
